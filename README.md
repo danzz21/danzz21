@@ -14,7 +14,7 @@
 - 👯 Open to collaborate on: **Web-based open-source projects**
 - 💬 Ask me about: **PHP, HTML, CSS, JavaScript, MySQL**
 - 📫 Reach me at: **danzzgendut@gmail.com**
-- ⚡ Fun fact: Ngoding malam ditemani kopi = semangat auto naik ☕
+- ⚡ Fun fact: Error bingung ga error lebih bingung
 
 ---
 
