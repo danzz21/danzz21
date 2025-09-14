@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on: **Sistem Inventaris Barang** using *PHP + MySQL*
+- 🔭 Currently working on: **Sitem Koperasi Syariah** using *PHP + MySQL*
 - 🌱 Actively learning: **Laravel**, **Tailwind CSS**, **REST API**
 - 🤝 Open to collaborate on: *Web-based open-source projects*
 - 💬 Ask me about: **PHP**, **HTML**, **CSS**, **JavaScript**, **MySQL**
@@ -32,7 +32,7 @@
 
 ### 📸 Project Preview
 
-> 🎯 Highlight Project: **Inventaris Web App**
+> 🎯 Highlight Project: **Koperasi Syariah**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/danzz21/Inventaris/main/dashboard.png" alt="Dashboard Inventaris" width="80%" />
@@ -55,5 +55,14 @@
 <p align="center">
   <a href="mailto:danzzgendut@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-danzzgendut@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/danzz21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-danzz21-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
