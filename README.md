@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Danzz</span></h1>
-<h3 align="center">💻 Junior Web Developer from Indonesia</h3>
+<marquee direction="left" scrollamount="8" style="color:#00c9a7; font-size:20px; font-weight:bold;">
+👋 Hello there! I'm Danzz — Junior Web Developer from Indonesia 🇮🇩 | Welcome to my GitHub! 🔥
+</marquee>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danzz21&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
