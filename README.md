@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Danzz21</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Danzz</span></h1>
 <h3 align="center">💻 Junior Web Developer from Indonesia</h3>
 
 <p align="center">
